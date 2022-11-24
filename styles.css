@@ -4,12 +4,13 @@ body {
 }
 
 .heading {
-  margin: 10px;
+  margin: 20px;
   color:rgb(74, 74, 185);
+  text-align:center;
 }
 
 .subheading {
   padding: 15px 0;
-  text-align:center;
-  color: lightslategray;
+  color: Night;
+  font-size: 1.5rem;
 }
