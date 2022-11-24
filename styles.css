@@ -1,0 +1,15 @@
+body {
+  width: 80%;
+  margin: auto;
+}
+
+.heading {
+  margin: 10px;
+  color:rgb(74, 74, 185);
+}
+
+.subheading {
+  padding: 15px 0;
+  text-align:center;
+  color: lightslategray;
+}
